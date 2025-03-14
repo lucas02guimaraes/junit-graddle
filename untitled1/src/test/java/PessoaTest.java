@@ -1,5 +1,4 @@
-package one.digitalinnovationon.junit;
-
+import org.example.Pessoa;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
